@@ -1,2 +1,3 @@
-name = "gh"
+name = "cf-github-proxy"
 main = "workers.js"
+compatibility_date = "2026-10-04"
